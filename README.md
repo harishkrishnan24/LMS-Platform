@@ -1,3 +1,7 @@
+# Application Preview
+
+![Application Preview](https://github.com/harishkrishnan24/LMS-Platform/blob/main/lms.png)
+
 ## About
 
 LMS is a platform to create and sell courses. Some of the technologies used are
