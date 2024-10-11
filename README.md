@@ -1,3 +1,14 @@
+## About
+
+LMS is a platform to create and sell courses. Some of the technologies used are
+
+- Next.js with TypeScript as the Full stack framework
+- Stripe for billing
+- Shadcn and Tailwind for styling
+- Upload Thing for uploading videos & attachments
+- Prisma as the database ORM
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
